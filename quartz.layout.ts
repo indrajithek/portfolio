@@ -24,7 +24,7 @@ const explorerSortFn = (a: FileNode, b: FileNode) => {
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
+  afterBody: [Component.YearDetails()],
   footer: Component.Footer({
     links: {
       

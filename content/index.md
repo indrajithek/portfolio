@@ -107,10 +107,11 @@ I hold MSc in Big Data Analytics from <a href="https://www.rgu.ac.uk/" target="_
 </div>
 
 <br>
+<!-- year dropdowns: open/closed is set automatically (last 3 years open) by quartz/components/scripts/yearDetails.inline.ts -->
 <!-- Journal proceedings section start -->
 <details open>
 <summary style="font-size: 1.5em; font-weight: bold;">Journal Publications</summary>
-<details open>
+<details>
 <summary>2025</summary>
 
 - L. B. Jayasooriya, N. C. Jayasinghe, **I. Ekanayake** , and D. P. Rangoda, “[[Perceived Tendencies of Skilled Migration Amidst the Economic Crisis in Sri Lanka: A Case Study of the Education Sector]],” _Migration and Development_, 2025, Art. no. 21632324251343691.
@@ -120,7 +121,7 @@ I hold MSc in Big Data Analytics from <a href="https://www.rgu.ac.uk/" target="_
 <!-- Conference proceedings section start -->
 <details open>
 <summary style="font-size: 1.5em; font-weight: bold;">Indexed Conference Proceedings</summary>
-<details open>
+<details>
 <summary>2026</summary>
 
 - **I. Ekanayake** and S. De Alwis, “[[Explainability, risk modeling, and segmentation based customer churn analytics for personalized retention in e-commerce]]” 2026 6th International Conference on Advanced Research in Computing (ICARC), Belihuloya, Sri Lanka, 2026,  pp. 1–5, doi: 10.48550/arXiv.2510.11604
@@ -128,7 +129,7 @@ I hold MSc in Big Data Analytics from <a href="https://www.rgu.ac.uk/" target="_
 
 </details>
 
-<details open>
+<details>
 <summary>2025</summary>
 
 - C. Wanigasooriya and **I. Ekanayake** , “NimbusGuard: A Novel Framework for Proactive Kubernetes Autoscaling Using Deep Q-Networks,” 2025, accepted and to be presented in 40th International Conference on Information Networking (ICOIN). IEEE.
@@ -136,14 +137,14 @@ I hold MSc in Big Data Analytics from <a href="https://www.rgu.ac.uk/" target="_
 - T. Mohomed and **I. Ekanayake** , "[[ARGO-SLSA Software Supply Chain Security in Argo Workflows]]," 2025 Moratuwa Engineering Research Conference (MERCon), Moratuwa, Sri Lanka, 2025, pp. 245-250, doi: 10.1109/MERCon67903.2025.11217128.
 
 </details>
-<details open>
+<details>
 <summary>2023</summary>
 
 - **I. Ekanayake**, J. Warnakula and S. Viswakula, "[[Reverse Engineering Piping and Instrumentation Drawings A Deep Learning Approach]]" 2023 International Conference on Power, Instrumentation, Control and Computing (PICC), Thrissur, India, 2023, pp. 1-4, doi: 10.1109/PICC57976.2023.10142454.
 - **I. Ekanayake** and R. Ranaweera, "Augmented reality to improve motor functions and cognitive abilities of early childhood education" ACM SIGCHI Winter School – South Asia, 2023, pp. 1-4.
 
 </details>
-<details open>
+<details>
 <summary>2022</summary>
 
 - **I. Ekanayake** and S. Gayanika, "[[Data Visualization Using Augmented Reality for Education A Systematic Review,]]" 2022 7th International Conference on Business and Industrial Research (ICBIR), Bangkok, Thailand, 2022, pp. 533-537, doi: 10.1109/ICBIR54589.2022.9786403.
@@ -156,7 +157,7 @@ I hold MSc in Big Data Analytics from <a href="https://www.rgu.ac.uk/" target="_
 <details open>
 <summary style="font-size: 1.5em; font-weight: bold;">Conference Review Committees</summary>
 
-<details open>
+<details>
 <summary>2026</summary>
 
 - [[2nd Applied Data Science & Artificial Intelligence Conference (ADScAI)]]
@@ -165,7 +166,7 @@ I hold MSc in Big Data Analytics from <a href="https://www.rgu.ac.uk/" target="_
 
 </details>
 
-<details open>
+<details>
 <summary>2025</summary>
 
 - [[conference review/2025/Late Braking Work ACM Conference on Human Factors in Computing Systems (CHI)|Late Braking Work ACM Conference on Human Factors in Computing Systems (CHI)]]
@@ -174,7 +175,7 @@ I hold MSc in Big Data Analytics from <a href="https://www.rgu.ac.uk/" target="_
 
 </details>
 
-<details open>
+<details>
 <summary>2024</summary>
 
 - [[conference review/2024/Late Braking Work ACM Conference on Human Factors in Computing Systems (CHI)|Late Braking Work ACM Conference on Human Factors in Computing Systems (CHI)]]
@@ -192,7 +193,7 @@ I hold MSc in Big Data Analytics from <a href="https://www.rgu.ac.uk/" target="_
 > [!note]
 > Wants to invite me for a physical/ online session? I'm open for 1 session every month. Please fill out this [[Form for Speaking Engagements | Form]] to share your interest
 
-<details open>
+<details>
 <summary>2026</summary>
 
 - [[Agent Escaped the Sandbox? Unikernel Agent Sandboxing is all you need (Possibly)]]
@@ -204,14 +205,14 @@ I hold MSc in Big Data Analytics from <a href="https://www.rgu.ac.uk/" target="_
 
 </details>
 
-<details open>
+<details>
 <summary>2025</summary>
 
 - [[Potential Research in Cloud Computing, Cybersecurity, Other SE domains]]
 
 </details>
 
-<details open>
+<details>
 <summary>2024</summary>
 
 - [[Deploying Microservice Application with Azure Kubernetes Service]]
@@ -222,7 +223,7 @@ I hold MSc in Big Data Analytics from <a href="https://www.rgu.ac.uk/" target="_
 
 </details>
 
-<details open>
+<details>
 <summary>2023</summary>
 
 - [[Judge - Nimi Shark Tank]]
