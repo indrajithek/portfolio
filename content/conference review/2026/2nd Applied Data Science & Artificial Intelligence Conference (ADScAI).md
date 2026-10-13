@@ -7,6 +7,6 @@ tags:
 ADScAI is organised by the Department of Computer Science & Engineering,  
 Faculty of Engineering, University of Moratuwa, and I'm humbled and grateful to be invited as a reviewer.
 
-**Number of Papers reviewed:** 6 
+**Number of Papers reviewed:** 
 
-
+<img src="../../images/2026-adscai-review.png">

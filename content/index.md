@@ -150,6 +150,8 @@ I have an MBA from <a href="https://www.pim.sjp.ac.lk/" target="_blank">PIM, Uni
 <summary>2026</summary>
 
 - [[2nd Applied Data Science & Artificial Intelligence Conference (ADScAI)]]
+- [[IEEE 12th Moratuwa Engineering Research Conference 2026 (MERCon 2026)]]
+- [[IEEE 11th International Conference on Advances in Technology and Computing (ICATC)]]
 
 </details>
 
