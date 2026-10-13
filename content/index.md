@@ -185,6 +185,7 @@ I have an MBA from <a href="https://www.pim.sjp.ac.lk/" target="_blank">PIM, Uni
 <details open>
 <summary>2026</summary>
 
+- [[Agent Escaped the Sandbox? Unikernel Agent Sandboxing is all you need (Possibly)]]
 - [[Predictive Kubernetes Autoscaling Past – Present – Future]]
 - [[OpenSearch for AssociationRule Mining With ActivityWatch]]
 - [[Beyond HPA, VPA and KEDA Proactive Kubernetes Autoscaling Using Deep Q-Networks]]
