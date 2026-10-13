@@ -107,7 +107,7 @@ I hold MSc in Big Data Analytics from <a href="https://www.rgu.ac.uk/" target="_
 </div>
 
 <br>
-<!-- year dropdowns: open/closed is set automatically (last 3 years open) by quartz/components/scripts/yearDetails.inline.ts -->
+<!-- year dropdowns: open/closed (last 3 years open) and the entry counts next to each year/section heading are set automatically by quartz/components/scripts/yearDetails.inline.ts -->
 <!-- Journal proceedings section start -->
 <details open>
 <summary style="font-size: 1.5em; font-weight: bold;">Journal Publications</summary>
