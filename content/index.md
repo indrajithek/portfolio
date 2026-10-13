@@ -6,19 +6,19 @@ draft: false
 <div style="display: flex; max-width: 800px; margin: 0 auto; gap: 20px; align-items: center; flex-wrap: wrap;">
 <div style="flex: 1.5; padding: 20px; min-width: 300px;">
 
-I'm currently working full-time in academia. In day time I work full time at <a href="https://tinyurl.com/4vnsku46" target="_blank">Informatics Institute of Technology (IIT) School of Computing</a> as a lecturer. At night I'm volunteer research assistant at  
-1. <a href="https://aitr-lab.github.io/" target="_blank">AITR Lab, Department of Computer Science and Engineering, University of Moratuwa.</a>  
-2. <a href="https://marcuop.netlify.app/" target="_blank">MARC Lab, Department of Computer Engineering at University of Peradeniya</a>.
+Im originally from Sri Lanka and currently a systems researcher at Bremen University. I do research in the areas of HCI, Computer Vision (Bio Med), Distributed Systems, and Multi Objective Reinforcement Learning. At night I do volunteer research and development at
+1. <a href="https://aitr-lab.github.io/" target="_blank">AITR Lab, Department of Computer Science and Engineering, University of Moratuwa.</a> 
+2. Linux foundation and CNCF projects. While I have many other interests, As of Q4 2026, I spend most of my time working in urunc, OpenSearch and Apache Lucene</a>.
 
-I do research in the areas of HCI, Computer Vision (Bio Med), 3D Computer Vision, Distributed Systems, and Multi Objective Reinforcement Learning. My current advisors are <a href="https://web2.ee.pdn.ac.lk/people/RoshanG" target="_blank">Prof. Roshan Godaliyadda</a>, <a href="https://federation.edu.au/research/find-an-expert/peter-vamplew" target="_blank">Prof. Peter Vamplew</a>, and <a href="https://thanuj.lk/" target="_blank">Dr. Thanuja Ambegoda</a>
+My previous advisors are <a href="https://web2.ee.pdn.ac.lk/people/RoshanG" target="_blank">Prof. Roshan Godaliyadda</a>, <a href="https://federation.edu.au/research/find-an-expert/peter-vamplew" target="_blank">Prof. Peter Vamplew</a>, and <a href="https://thanuj.lk/" target="_blank">Dr. Thanuja Ambegoda</a>
 
-From 2022 - 2024, I worked at <a href="https://codification.io/" target="_blank">Codification</a>, as a Consultant Platform Engineer. Previously I have also worked <a href="https://ou.ac.lk/electrical-and-comp-engi/" target="_blank">Open University (FT)</a>, <a href="https://www.nsbm.ac.lk/faculty-of-computing/" target="_blank">NSBM Green University (FT)</a>, <a href="https://fct.kln.ac.lk/" target="_blank">University of Kelaniya (PT)</a>, and <a href="https://www.iit.ac.lk/computing/" target="_blank">Informatics Institute of Technology (PT)</a> as a Lecturer. I'm also a recipient of the <a href="https://mvp.microsoft.com/en-US/MVP/profile/a25fdb68-34b6-4106-a247-09ac2caffed4" target="_blank">Most Valuable Professional(MVP) Award</a> from Microsoft. I was also a mentee at [[lfx | LFX’26 - urunc]] by the Cloud Native Computing Foundation (CNCF).
+2024 - 2026 I worked at <a href="https://tinyurl.com/4vnsku46" target="_blank">Informatics Institute of Technology (IIT) School of Computing</a> as lecturer. Previously 2022 - 2024, I worked at <a href="https://codification.io/" target="_blank">Codification</a>, as a Consultant Platform Engineer. Previously I have also worked <a href="https://ou.ac.lk/electrical-and-comp-engi/" target="_blank">Open University (FT)</a>, <a href="https://www.nsbm.ac.lk/faculty-of-computing/" target="_blank">NSBM Green University (FT)</a>, <a href="https://fct.kln.ac.lk/" target="_blank">University of Kelaniya (PT)</a>, and <a href="https://www.iit.ac.lk/computing/" target="_blank">Informatics Institute of Technology (PT)</a> as a Lecturer. I'm also a recipient of the <a href="https://mvp.microsoft.com/en-US/MVP/profile/a25fdb68-34b6-4106-a247-09ac2caffed4" target="_blank">Most Valuable Professional(MVP) Award</a> from Microsoft. I was also a mentee at [[lfx | LFX’26 - urunc]] by the Cloud Native Computing Foundation (CNCF).
 
-I have an MBA from <a href="https://www.pim.sjp.ac.lk/" target="_blank">PIM, University of Sri Jayewardenepura</a>, where I did research with Dr Samantha Rathnayake. I also have a BSc(1st) in Software Engineering from <a href="https://www.plymouth.ac.uk/" target="_blank">University of Plymouth</a>, where I worked with <a href="https://www.nsbm.ac.lk/staff/dr-rasika-ranaweera/" target="_blank">Dr Rasika Ranaweera's</a> lab.
+I hold MSc in Big Data Analytics from <a href="https://www.rgu.ac.uk/" target="_blank">Robert Gordon University</a>, where I did research with Dr Sameera Viswakula's lab. I also have an MBA from <a href="https://www.pim.sjp.ac.lk/" target="_blank">PIM, University of Sri Jayewardenepura</a>, where I did research with Dr Samantha Rathnayake. I also have a BSc(1st) in Software Engineering from <a href="https://www.plymouth.ac.uk/" target="_blank">University of Plymouth</a>, where I worked with <a href="https://www.nsbm.ac.lk/staff/dr-rasika-ranaweera/" target="_blank">Dr Rasika Ranaweera's</a> lab.
 
 <div style="text-align: center;">
 
-<a href="https://mailhide.io/e/D81GvwHs" target="_blank">Email</a> &nbsp;/&nbsp; <a href="https://github.com/indrajithekanayake" target="_blank">GitHub</a> &nbsp;/&nbsp; <a href="https://scholar.google.com/citations?user=idLLQh4AAAAJ&hl=en" target="_blank">Google Scholar</a> &nbsp;/&nbsp; <a href="https://www.linkedin.com/in/indrajithek" target="_blank">LinkedIn</a>
+<a href="https://mailhide.io/e/D81GvwHs" target="_blank">Email</a> &nbsp;/&nbsp; <a href="https://github.com/indrajithek" target="_blank">GitHub</a> &nbsp;/&nbsp; <a href="https://scholar.google.com/citations?user=idLLQh4AAAAJ&hl=en" target="_blank">Google Scholar</a> &nbsp;/&nbsp; <a href="https://www.linkedin.com/in/indrajithek" target="_blank">LinkedIn</a>
 
 </div>
 
@@ -34,14 +34,31 @@ I have an MBA from <a href="https://www.pim.sjp.ac.lk/" target="_blank">PIM, Uni
 </div>
 
 <div style="display: flex; justify-content: center; gap: 12px;">
-<a href="https://www.iit.ac.lk/computing/" target="_blank" style="text-decoration: none;">
+<a href="https://www.uni-bremen.de/en/" target="_blank" style="text-decoration: none;">
 <div style="width: 60px; height: 60px; border: 2px solid #e5e5e5; border-radius: 6px; display: flex; align-items: center; justify-content: center; background: #f9f9f9; overflow: hidden; cursor: pointer; transition: all 0.3s ease;">
-<img src="images/iit-logo.png" alt="IIT" style="width: 50px; height: 50px; object-fit: contain;">
+<img src="images/unibremen-logo.png" alt="University of Bremen" style="width: 50px; height: 50px; object-fit: contain;">
+</div>
+</a>
+<a href="./lfx-brain/lfx" class="internal" style="text-decoration: none;">
+<div style="width: 60px; height: 60px; border: 2px solid #e5e5e5; border-radius: 6px; display: flex; align-items: center; justify-content: center; background: #f9f9f9; overflow: hidden; cursor: pointer; transition: all 0.3s ease;">
+<img src="images/cncf-logo.png" alt="CNCF" style="width: 50px; height: 50px; object-fit: contain;">
 </div>
 </a>
 <a href="https://aitr-lab.github.io/" target="_blank" style="text-decoration: none;">
 <div style="width: 60px; height: 60px; border: 2px solid #e5e5e5; border-radius: 6px; display: flex; align-items: center; justify-content: center; background: #f9f9f9; overflow: hidden; cursor: pointer; transition: all 0.3s ease;">
 <img src="images/cse-logo.jpeg" alt="AITR" style="width: 50px; height: 50px; object-fit: contain;">
+</div>
+</a>
+</div>
+
+<div style="text-align: center; margin: 20px 0 10px 0;">
+<h4 style="margin: 0; color: #666; font-size: 14px; font-weight: 600;">Previous Affiliations</h4>
+</div>
+
+<div style="display: flex; justify-content: center; gap: 12px;">
+<a href="https://www.iit.ac.lk/computing/" target="_blank" style="text-decoration: none;">
+<div style="width: 60px; height: 60px; border: 2px solid #e5e5e5; border-radius: 6px; display: flex; align-items: center; justify-content: center; background: #f9f9f9; overflow: hidden; cursor: pointer; transition: all 0.3s ease;">
+<img src="images/iit-logo.png" alt="IIT" style="width: 50px; height: 50px; object-fit: contain;">
 </div>
 </a>
 <a href="https://marcuop.netlify.app/" target="_blank" style="text-decoration: none;">
@@ -54,18 +71,14 @@ I have an MBA from <a href="https://www.pim.sjp.ac.lk/" target="_blank">PIM, Uni
 <img src="images/mvp-logo.png" alt="MVP" style="width: 50px; height: 50px; object-fit: contain;">
 </div>
 </a>
-</div>
-
-<div style="text-align: center; margin: 20px 0 10px 0;">
-<h4 style="margin: 0; color: #666; font-size: 14px; font-weight: 600;">Previous Affiliations</h4>
-</div>
-
-<div style="display: flex; justify-content: center; gap: 12px;">
 <a href="https://codification.io/" target="_blank" style="text-decoration: none;">
 <div style="width: 60px; height: 60px; border: 2px solid #e5e5e5; border-radius: 6px; display: flex; align-items: center; justify-content: center; background: #f9f9f9; overflow: hidden; cursor: pointer; transition: all 0.3s ease;">
 <img src="images/codi-logo.png" alt="Codification" style="width: 50px; height: 50px; object-fit: contain;">
 </div>
 </a>
+</div>
+
+<div style="display: flex; justify-content: center; gap: 12px;">
 <a href="https://ou.ac.lk/" target="_blank" style="text-decoration: none;">
 <div style="width: 60px; height: 60px; border: 2px solid #e5e5e5; border-radius: 6px; display: flex; align-items: center; justify-content: center; background: #f9f9f9; overflow: hidden; cursor: pointer; transition: all 0.3s ease;">
 <img src="images/ousl-logo.jpg" alt="OpenU" style="width: 50px; height: 50px; object-fit: contain;">
@@ -81,9 +94,6 @@ I have an MBA from <a href="https://www.pim.sjp.ac.lk/" target="_blank">PIM, Uni
 <img src="images/uok-logo.png" alt="Kelaniya" style="width: 50px; height: 50px; object-fit: contain;">
 </div>
 </a>
-</div>
-
-<div style="display: flex; justify-content: center; gap: 12px;">
 <a href="https://www.creativesoftware.com/" target="_blank" style="text-decoration: none;">
 <div style="width: 60px; height: 60px; border: 2px solid #e5e5e5; border-radius: 6px; display: flex; align-items: center; justify-content: center; background: #f9f9f9; overflow: hidden; cursor: pointer; transition: all 0.3s ease;">
 <img src="images/creativesoftware-logo.jpeg" alt="Creative Software" style="width: 50px; height: 50px; object-fit: contain;">
