@@ -108,8 +108,9 @@ I hold MSc in Big Data Analytics from <a href="https://www.rgu.ac.uk/" target="_
 
 <br>
 <!-- year dropdowns: open/closed (last 3 years open) and the entry counts next to each year/section heading are set automatically by quartz/components/scripts/yearDetails.inline.ts -->
+<!-- section links: the id on each section (e.g. id="InvitedTalksandPresentations") makes it linkable as indrajith.net/#InvitedTalksandPresentations, and a copy-link icon is added next to its heading. give any new section an id too -->
 <!-- Journal proceedings section start -->
-<details open>
+<details open id="JournalPublications">
 <summary style="font-size: 1.5em; font-weight: bold;">Journal Publications</summary>
 <details>
 <summary>2025</summary>
@@ -119,7 +120,7 @@ I hold MSc in Big Data Analytics from <a href="https://www.rgu.ac.uk/" target="_
 </details>
 </details>
 <!-- Conference proceedings section start -->
-<details open>
+<details open id="IndexedConferenceProceedings">
 <summary style="font-size: 1.5em; font-weight: bold;">Indexed Conference Proceedings</summary>
 <details>
 <summary>2026</summary>
@@ -154,7 +155,7 @@ I hold MSc in Big Data Analytics from <a href="https://www.rgu.ac.uk/" target="_
 <!-- Conference proceedings section end -->
 
 <!-- Conference review section start -->
-<details open>
+<details open id="ConferenceReviewCommittees">
 <summary style="font-size: 1.5em; font-weight: bold;">Conference Review Committees</summary>
 
 <details>
@@ -187,7 +188,7 @@ I hold MSc in Big Data Analytics from <a href="https://www.rgu.ac.uk/" target="_
 <!-- Conference review section end -->
 
 <!-- Talks and presentations section start -->
-<details open>
+<details open id="InvitedTalksandPresentations">
 <summary style="font-size: 1.5em; font-weight: bold;">Invited Talks and Presentations</summary>
 
 > [!note]
